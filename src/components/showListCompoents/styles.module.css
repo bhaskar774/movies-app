@@ -1,0 +1,22 @@
+.title {
+    font-family: 'Roboto', arial, helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+
+
+}
+
+.list:hover {
+    overflow: overlay;
+}
+
+.list {
+    display: flex;
+    overflow-x: hidden;
+    width: 100vw-25px;
+    padding-bottom: 20px;
+}
+
+.tv_show {
+    margin-right: 20px;
+}
